@@ -2,6 +2,8 @@
 
 This project focuses on analyzing the supply chain and shipping operations of a US-based candy distributor. The key objectives include data modeling, geospatial mapping of shipping routes, and calculating customer metrics to optimize distribution efficiency.
 
+Link : https://public.tableau.com/app/profile/vikrant.bhardwaj6142/viz/USCandyDistributors/USCandy
+
 ## Project Objectives
 
 1. **Model the Data:**
